@@ -1,0 +1,14 @@
+C:\Users\z\Desktop\HospitalManageSystem\bin\Debug\net8.0\HospitalManageSystem.exe
+C:\Users\z\Desktop\HospitalManageSystem\bin\Debug\net8.0\HospitalManageSystem.deps.json
+C:\Users\z\Desktop\HospitalManageSystem\bin\Debug\net8.0\HospitalManageSystem.runtimeconfig.json
+C:\Users\z\Desktop\HospitalManageSystem\bin\Debug\net8.0\HospitalManageSystem.dll
+C:\Users\z\Desktop\HospitalManageSystem\bin\Debug\net8.0\HospitalManageSystem.pdb
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.AssemblyInfoInputs.cache
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.AssemblyInfo.cs
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.dll
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\refint\HospitalManageSystem.dll
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.pdb
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\HospitalManageSystem.genruntimeconfig.cache
+C:\Users\z\Desktop\HospitalManageSystem\obj\Debug\net8.0\ref\HospitalManageSystem.dll

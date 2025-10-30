@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\InputHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utilities\\InputHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\AuthServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthServise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\IdGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utilities\\IdGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utilities\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\MenuRouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\MenuRouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\DoctorMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menus\\DoctorMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Storage\\FileManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Storage\\FileManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\AdminMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menus\\AdminMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\PatientMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menus\\PatientMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\BaseUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\BaseUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\z\\Desktop\\HospitalManageSystem\\HospitalManageSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalManageSystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\InputHelper.cs",
+              "RelativeToolTip": "Utilities\\InputHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServise.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\AuthServise.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServise.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\AuthServise.cs",
+              "RelativeToolTip": "Services\\AuthServise.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:38.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "Utilities\\IdGenerator.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\IdGenerator.cs",
+              "RelativeToolTip": "Utilities\\IdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:53.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\Extensions.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Utilities\\Extensions.cs",
+              "RelativeToolTip": "Utilities\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:51.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuRouter.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\MenuRouter.cs",
+              "RelativeDocumentMoniker": "Services\\MenuRouter.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\MenuRouter.cs",
+              "RelativeToolTip": "Services\\MenuRouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:42.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\DoctorMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\DoctorMenu.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\DoctorMenu.cs",
+              "RelativeToolTip": "Menus\\DoctorMenu.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAmwKAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:31.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T02:01:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\DataContext.cs",
+              "RelativeDocumentMoniker": "Services\\DataContext.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Services\\DataContext.cs",
+              "RelativeToolTip": "Services\\DataContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Storage\\FileManager.cs",
+              "RelativeDocumentMoniker": "Storage\\FileManager.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Storage\\FileManager.cs",
+              "RelativeToolTip": "Storage\\FileManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Admin.cs",
+              "RelativeToolTip": "Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:10.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Patient.cs",
+              "RelativeToolTip": "Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\AdminMenu.cs",
+              "RelativeToolTip": "Menus\\AdminMenu.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwE8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:28.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientMenu.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\PatientMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\PatientMenu.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Menus\\PatientMenu.cs",
+              "RelativeToolTip": "Menus\\PatientMenu.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAcwKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:32.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:13.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\BaseUser.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseUser.cs",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\Entities\\BaseUser.cs",
+              "RelativeToolTip": "Entities\\BaseUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:12:16.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HospitalManageSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\HospitalManageSystem.csproj",
+              "RelativeDocumentMoniker": "HospitalManageSystem.csproj",
+              "ToolTip": "C:\\Users\\z\\Desktop\\HospitalManageSystem\\HospitalManageSystem.csproj",
+              "RelativeToolTip": "HospitalManageSystem.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T02:02:18.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

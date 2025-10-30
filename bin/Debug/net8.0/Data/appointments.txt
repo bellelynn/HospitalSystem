@@ -1,0 +1,2 @@
+AppointmentId|PatientId|DoctorId|DateTime|Status
+428925|5710324|47648672|31-12-2025 14:30|1
