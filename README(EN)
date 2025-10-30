@@ -1,0 +1,63 @@
+# Hospital Management System
+
+This is a C# console application based on .NET 8.0, simulating a simple hospital management system.
+
+The system supports three different user roles: Administrator, Doctor, and Patient. It uses text files (.txt) for data storage and implements basic login, data management, and role-specific functionalities.
+
+## Features
+
+### General
+
+* **User Authentication:** Users log in with a unique ID and password. The system verifies the credentials against Administrator, Doctor, or Patient records.
+* **Data Persistence:** System data (Doctors, Patients, Administrators, Appointments) is loaded from text files at startup and saved back to the files after changes, managed by the `FileManager`.
+* **Role-Based Routing:** After a successful login, the system automatically navigates the user to their specific menu based on their user type (`Administrator`, `Doctor`, `Patient`).
+
+### Administrator
+
+The administrator is responsible for basic data maintenance:
+
+* List all doctors.
+* Check the details of a specific doctor by ID.
+* List all patients.
+* Check the details of a specific patient by ID.
+* Add a new doctor (auto-generates ID, sets name, password, specialty).
+* Add a new patient (auto-generates ID, sets name, password, age).
+
+### Doctor
+
+Doctors can manage their patients and appointments:
+
+* View their own details (including specialty and number of patients).
+* View their assigned patient list (i.e., patients whose `BoundDoctorId` matches the doctor's ID).
+* View all their scheduled appointments.
+* Search for and view the details of a specific patient by ID (only for their own bound patients).
+* View appointment records for a specific patient by ID.
+
+### Patient
+
+Patients can view their information and book appointments:
+
+* View their own details (including age and bound doctor ID).
+* View their assigned doctor's information.
+* View all their appointment records.
+* **Booking Flow:**
+    * If a patient does not have an assigned doctor, the system guides them to select and bind to one from a list.
+    * Patients can create a new appointment by entering a future date/time and status.
+    * The new appointment is automatically assigned to the patient's bound doctor.
+
+## Technology Stack
+
+* **Language:** C#
+* **Framework:** .NET 8.0 (Console App)
+* **Data Storage:** Text files (.txt) using `|` as a delimiter.
+
+## Project Structure
+
+* **`Entities/`**: Contains the core data models (`BaseUser`, `Administrator`, `Doctor`, `Patient`, `Appointment`). `BaseUser` is an abstract base class defining common properties like `Id`, `Name`, and `Password`.
+* **`Services/`**: Contains the core business logic.
+    * `AuthService.cs`: Handles user login and authentication.
+    * `DataContext.cs`: Acts as an in-memory database (using `Dictionary` and `List`), manages all entity collections, and is responsible for calling the `FileManager` to load and save data.
+    * `MenuRouter.cs`: Dispatches to the correct menu based on the logged-in user's type.
+* **`Menus/`**: Contains the UI and interaction logic for each user role (`AdminMenu`, `DoctorMenu`, `PatientMenu`).
+* **`Storage/`**:
+    * `FileManager.cs`: Responsible for all file read/write operations, including serialization and deserialization of entity objects to/from text lines.
